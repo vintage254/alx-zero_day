@@ -1,1 +1,2 @@
-my first readme
+my first edit on the repository directly
+
